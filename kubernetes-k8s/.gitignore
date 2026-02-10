@@ -1,0 +1,13 @@
+./
+../
+.gitignor
+cat <<EOF > .gitignore
+*.log
+.env
+.DS_Store
+.idea/
+.vscode/
+EOF
+.gitignore.swp
+GitHubToken.txt
+apache/
