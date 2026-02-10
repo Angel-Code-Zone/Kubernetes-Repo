@@ -1,0 +1,7 @@
+Pre-requisite to create a cluster
+
+1 - Install Docker
+
+2 - Install Kind
+
+3 - Install kubectl
